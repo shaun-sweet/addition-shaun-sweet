@@ -1,0 +1,24 @@
+{
+  "name": "addition-shaun-sweet",
+  "version": "0.0.1",
+  "description": "foo bar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaun-sweet/addition-shaun-sweet.git"
+  },
+  "keywords": [
+    "addition",
+    "shaun",
+    "sweet"
+  ],
+  "author": "Shaun Sweet",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/shaun-sweet/addition-shaun-sweet/issues"
+  },
+  "homepage": "https://github.com/shaun-sweet/addition-shaun-sweet#readme"
+}
